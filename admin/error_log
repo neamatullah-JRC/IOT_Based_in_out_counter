@@ -1,0 +1,181 @@
+[17-Feb-2023 08:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 15
+[17-Feb-2023 08:26:56 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:27:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 15
+[17-Feb-2023 08:27:12 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:27:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:27:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 26
+[17-Feb-2023 08:28:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 15
+[17-Feb-2023 08:28:28 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:28:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:28:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 29
+[17-Feb-2023 08:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 15
+[17-Feb-2023 08:28:36 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:28:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 15
+[17-Feb-2023 08:28:44 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:28:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 16
+[17-Feb-2023 08:28:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 29
+[17-Feb-2023 08:29:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 08:29:41 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:29:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 08:29:47 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:30:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 08:30:03 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:30:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:30:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 08:30:38 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:30:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:30:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[17-Feb-2023 08:33:35 UTC] PHP Warning:  Undefined array key "did" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 22
+[17-Feb-2023 08:37:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 08:37:10 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:37:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:37:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 08:37:35 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:37:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 08:37:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[17-Feb-2023 09:41:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 09:41:29 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 09:41:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 11:15:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[17-Feb-2023 11:15:14 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 11:15:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[17-Feb-2023 17:20:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 7
+[17-Feb-2023 17:51:09 UTC] PHP Warning:  Undefined variable $did in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 20
+[17-Feb-2023 17:51:09 UTC] PHP Warning:  Undefined variable $conn in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 21
+[17-Feb-2023 17:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php:21
+Stack trace:
+#0 /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php(13): create()
+#1 {main}
+  thrown in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 21
+[17-Feb-2023 17:51:14 UTC] PHP Warning:  Undefined variable $did in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 20
+[17-Feb-2023 17:51:14 UTC] PHP Warning:  Undefined variable $conn in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 21
+[17-Feb-2023 17:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php:21
+Stack trace:
+#0 /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php(13): create()
+#1 {main}
+  thrown in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 21
+[17-Feb-2023 17:55:20 UTC] PHP Warning:  Undefined variable $did in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 23
+[17-Feb-2023 17:55:20 UTC] PHP Warning:  Undefined variable $conn in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 24
+[17-Feb-2023 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php:24
+Stack trace:
+#0 /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php(16): create()
+#1 {main}
+  thrown in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 24
+[18-Feb-2023 05:56:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 05:56:10 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 05:56:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 05:56:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 05:56:38 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 05:56:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 05:56:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[18-Feb-2023 19:26:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:26:12 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:26:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:26:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:26:19 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:26:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:26:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[18-Feb-2023 19:26:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:26:59 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:26:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[18-Feb-2023 19:27:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:27:02 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[18-Feb-2023 19:27:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:27:09 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:27:15 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php:12) in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 24
+[18-Feb-2023 19:27:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:27:36 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:27:40 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:27:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:28:05 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:28:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:28:16 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:28:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:28:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:28:23 UTC] PHP Warning:  Undefined variable $user in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:28:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:29:42 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:29:42 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 19:29:42 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 19:29:42 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 20:02:44 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:02:44 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 20:03:30 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:03:30 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 20:03:51 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:03:51 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 20:05:15 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:15 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:15 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:15 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:16 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:16 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:16 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:16 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:17 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:17 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:17 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:17 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:17 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:17 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:52 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:52 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:05:53 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:05:53 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:06:21 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 9
+[18-Feb-2023 20:06:21 UTC] PHP Warning:  Undefined array key "password" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 10
+[18-Feb-2023 20:08:19 UTC] PHP Parse error:  Unmatched '}' in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 34
+[18-Feb-2023 20:11:58 UTC] PHP Warning:  Undefined variable $did in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 8
+[18-Feb-2023 20:11:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 20:11:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 12
+[18-Feb-2023 20:12:13 UTC] PHP Warning:  Undefined variable $did in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 8
+[18-Feb-2023 20:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 11
+[18-Feb-2023 20:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/index.php on line 12
+[18-Feb-2023 20:17:07 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:17:07 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:17:07 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:17:07 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 23
+[18-Feb-2023 20:19:23 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:56 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:56 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:56 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:56 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:57 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:57 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:57 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:19:57 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:51 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:51 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:51 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:51 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:52 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:52 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:52 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:52 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:53 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:53 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:53 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[18-Feb-2023 20:20:53 UTC] PHP Warning:  Undefined array key "user_name" in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/usersdata.php on line 24
+[19-Feb-2023 04:26:48 UTC] PHP Warning:  Undefined variable $device_id in /home/captaine/public_html/jrc/projects/inoutcounter/main/admin/admin.php on line 23
